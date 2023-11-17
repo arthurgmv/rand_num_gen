@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Formulário</title>
+    <title>Número Aleatório</title>
     <link rel="stylesheet" href="style.css">
 
     <style>
