@@ -242,7 +242,7 @@
 <section>
     <?php
         $randNum = $_POST["randnum"];
-        $random = rand(10,100); //é possível usar no lugar a função mt_rand( ) 
+        $random = rand(10,100); //é possível usar no lugar a função mt_rand( ) ou até mesmo a função random_int( ) 
         echo "<p> Seu número é: $random </p>";
 
     ?>
